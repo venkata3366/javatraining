@@ -1,5 +1,5 @@
 1.
-Java Training;
+package Java Training;
 
 public class HelloWorld {
 
@@ -19,7 +19,7 @@ public class HelloWorld {
 }
 
 2.
-Java Training ;
+package Java Training ;
 
 public class HelloWorld {
 
@@ -40,7 +40,7 @@ public class HelloWorld {
 
 
 3.
-Java Training;
+package Java Training;
 
 public class HelloWorld {
 
@@ -62,7 +62,7 @@ public class HelloWorld {
 }
 
 4.
-Java Training;
+package Java Training;
 
 public class HelloWorld {
 
@@ -78,7 +78,7 @@ public class HelloWorld {
 	}
 
 5.
-Java Training;
+package Java Training;
 
 public class HelloWorld {
 
@@ -103,7 +103,7 @@ public class HelloWorld {
 	}
 
 6.
-Java Training;
+package Java Training;
 
 public class HelloWorld {
 
@@ -127,7 +127,7 @@ public class HelloWorld {
 
 
 7.
-Java Training;
+package Java Training;
 
 public class Employee {
 	
@@ -183,7 +183,7 @@ public class Employee {
 
 
 8.
-Java Training;
+package Java Training;
 
 public class Product {
 	public String proname;
@@ -199,7 +199,7 @@ public class Product {
 
 }
 main file
-Java Training;
+package Java Training;
 
 public class Main {
 
@@ -218,7 +218,7 @@ public class Main {
 
 9.
 
-Java Training;
+package Java Training;
 
 public class Iphone {
 	
@@ -254,7 +254,7 @@ public class Iphone {
 
 
 10.
-Java Training;
+package Java Training;
 
 public class Employee {
 	
@@ -273,7 +273,7 @@ public class Employee {
 }
 
 
-Java Training;
+package Java Training;
 
 public class Manager extends Employee {
 	
@@ -288,7 +288,7 @@ public class Manager extends Employee {
 }
 
 
-Java Training;
+package Java Training;
 
 public class Developer extends Manager {
 	
@@ -302,7 +302,7 @@ public class Developer extends Manager {
 	
 }
 
-Java Training;
+package Java Training;
 
 public class Tester extends Developer {
 	
@@ -317,7 +317,7 @@ public class Tester extends Developer {
 }
 
 main
-Java Training;
+package Java Training;
 
 public class Main {
 
@@ -338,7 +338,7 @@ public class Main {
 
 
 11.
-Java Training;
+package Java Training;
 
 public abstract class Shape {
 	private double height; 
@@ -363,7 +363,7 @@ public abstract class Shape {
 	   public abstract double getArea();
 	}
 
-Java Training;
+package Java Training;
 
 public class Triangle extends Shape
 { 
@@ -373,7 +373,7 @@ public class Triangle extends Shape
     }
 }       
 
-Java Training;
+package Java Training;
 
 public class Square extends Shape
 {
@@ -383,7 +383,7 @@ public class Square extends Shape
     }
 }
 
-Java Training;
+package Java Training;
 
 public class Rectangle extends Shape
 {
@@ -394,7 +394,7 @@ public class Rectangle extends Shape
 }
 main
 
-Java Training;
+package Java Training;
 
 public class AbstractDemo {
 
